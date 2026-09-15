@@ -2,11 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Starter Project",
-  description: "A clean starting point for building your site.",
-  other: {
-    "codex-preview": "development",
-  },
+  title: "ABDOMESS 24 | Private Athletic Journal",
+  description: "Abderrahmane Messaadiyene's private athletic training journal.",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
